@@ -1,0 +1,7 @@
+@mixin propTypes($prop, $propTypes) {
+  @if index($propTypes, $prop) {
+
+  } @else {
+    @warn "#{$prop} must be one of #{$propTypes}";
+  }
+}
