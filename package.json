@@ -1,0 +1,21 @@
+{
+  "name": "sass-proptypes",
+  "version": "1.0.0",
+  "description": "Argument validation for your Sass mixins",
+  "main": "_proptypes.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewliebchen/sass-proptypes.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "mixin"
+  ],
+  "author": "Andrew Liebchen <andrewliebchen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewliebchen/sass-proptypes/issues"
+  },
+  "homepage": "https://github.com/andrewliebchen/sass-proptypes#readme"
+}
